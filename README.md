@@ -1,2 +1,2 @@
-# sentiment-analysis-neural-networks
-Sentiment Analysis with Neural Networks Project: Udacity - AI for Trading Nanodegree Program
+# Sentiment Analysis with Neural Networks
+Udacity - AI for Trading Nanodegree Program
